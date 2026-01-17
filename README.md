@@ -90,8 +90,6 @@ This is the same execution model used in **production distributed systems**.
 
 ---
 
-## How to Run Locally
-
 ### Prerequisites
 
 - Java 17+
